@@ -1,2 +1,4 @@
-This is just to move hosting from the old infinite free to github.
-plus i want to make the code open source for people to turst this site!
+Wii Monday U was a thing I did at school
+it sadly had to end but I wanted to keep the Website but the hosting provider did not like having the website hosted with no visitors.
+
+So I moved it here on GitHub with the code open source. I am also going to keep it updated with fun stuff!
